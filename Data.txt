@@ -1,0 +1,36 @@
+This file contains the text used for the experiments while building the self-feedback pipeline. These texts are taken from Google Scholar for the task of text simplification.
+
+1. Source: https://www.mdpi.com/2079-9292/10/20/2470
+
+In recent years, several exciting survey papers have been published on deep CNN. For example, (Asifullah Khan et al., 2018) examined prominent structures from 2012 to 2018 and their major components. (Alzubaidi et al., 2021) reviewed deep learning concepts, CNN architecture, challenges, and future trends. This paper was the first paper to include various DL aspects. It also includes the impact of CPU, GPU, and FPGA on various deep learning approaches. It includes one section about the introduction to CNN and its architecture. (Smarandache et al., 2019) reviewed trends in convolutional neural network architecture. This paper primarily focuses on the design of the architecture of around 10 well-known CNN models.
+
+2. Source: https://www.sciencedirect.com/science/article/pii/S0924271620303488?casa_token=iqT37R3DjVoAAAAA:oRk9EzpuiLCbmiQyehWUU4uI-go5i2IjQ4xHvLwzGBZAjz_qJ9_q9W947_kCSRry4C9eGKI-zA
+
+These growing opportunities for vegetation remote sensing come hand in hand with several challenges, including increased data volumes and computational loads as well as more diverse data structures with increasing dimensions (spatial, temporal, spectral) often featuring complex relationships. 
+Moreover, the various vegetation related tasks and applications fields can differ greatly in their inherent processes and requirements. 
+Hence, harnessing remote sensing data for vegetation assessments and monitoring requires efficient, accurate, and flexible analytical methods.
+
+3. Source: https://proceedings.neurips.cc/paper_files/paper/2015/hash/33ceb07bf4eeb3da587e268d663aba1a-Abstract.html
+
+In this section we describe the formulation of a spatial transformer. This is a differentiable module
+which applies a spatial transformation to a feature map during a single forward pass, where the
+transformation is conditioned on the particular input, producing a single output feature map. For
+multi-channel inputs, the same warping is applied to each channel. For simplicity, in this section we
+consider single transforms and single outputs per transformer, however we can generalise to multiple
+transformations, as shown in experiments.
+
+4. Source: https://cdn.techscience.cn/uploads/attached/file/20211122/20211122073815_82149.pdf
+
+LSTM is the earliest proposed RNN gating algorithm, and its corresponding loop unit, the LSTM
+unit contains 3 gates: input gate, forget gate, and output gate. Compared with the recursive calculation of
+the RNN’s establishment of the system state, the three gates establish a self-loop on the internal state of
+the LSTM unit [10]. Specifically, the input gate determines the input of the current time step and the
+update of the internal state of the system state of the previous time step; the forgetting gate determines the
+update of the internal state of the previous time step to the internal state of the current time step; the
+output gate determines the effect of the internal state on the system.
+
+5. Source: https://wires.onlinelibrary.wiley.com/doi/full/10.1002/widm.1312
+
+Currently, explanations of why predictions are made, or how model parameters capture underlying biological mechanisms are elusive. 
+A further constraint is that humans are limited to visual assessment or review of explanations for a (large) number of axioms. 
+This result in one of the main question: Can we deduce properties without experiments—directly from pure observations? (Peters et al., 2017).
